@@ -17,7 +17,7 @@ Takeoff takes time as gravity fights back. The ship's acceleration is adjustable
  
  Be careful when flying around, you will slowly move towards the ground. The particle trail behind you helps you keep track of the direction and magnitude of your velocity, so you can aim in the correct direction to slow down.
 <p>
-  <img src="https://i.imgur.com/7zLUP35.mp4">
+  <img src="https://thumbs.gfycat.com/GenuineJitteryGalapagossealion-size_restricted.gif">
  </p>
 
 The planet is not huge, but is sizable, with a variety of different terrain levels, features, and even a city (with an especially difficult to approach landing zone).
