@@ -12,7 +12,7 @@ Space Taxi makes use of a variety of Unity's features, notably:
 ## Take a look at some gameplay:
 Takeoff takes time as gravity fights back. The ship's acceleration is adjustable in code, but is intended to be low
 <p>
-  <img src="https://i.imgur.com/SGvJZPK.mp4">
+  <img src="https://thumbs.gfycat.com/SpanishBarrenIndochinahogdeer-size_restricted.gif">
  </p>
  
  Be careful when flying around, you will slowly move towards the ground. The particle trail behind you helps you keep track of the direction and magnitude of your velocity, so you can aim in the correct direction to slow down.
