@@ -9,6 +9,8 @@ Space Taxi makes use of a variety of Unity's features, notably:
 * Physics System (For movement by adding forces to a simulated RigidBody)
 * Cinemachine
 
+There's a release available [here](https://github.com/JustColdToast/Space-Taxi/releases)
+
 ## Take a look at some gameplay:
 Takeoff takes time as gravity fights back. The ship's acceleration is adjustable in code, but is intended to be low
 <p>
