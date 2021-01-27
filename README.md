@@ -1,7 +1,7 @@
 # Space-Taxi
 Space Taxi is a game about exploring a planet in your tiny triangle-shaped spaceship: fighting against gravity and avoiding mountains, in order to help the tiny people of the planet get from once place to another.
 
-The key feature of Space Taxi is a basic simulation of real physics. I got the idea in Physics class, when learning about [Newton's Law of Universal Gravitation](https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation), and basic equation for this concept is implemented in the code of the game.
+The key feature of Space Taxi is a basic simulation of real physics. I got the idea in Physics class, when learning about [Newton's Law of Universal Gravitation](https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation), and the basic equation for this concept is implemented in the code of the game.
 
 Space Taxi makes use of a variety of Unity's features, notably:
 * Particle System
